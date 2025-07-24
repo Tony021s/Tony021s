@@ -6,9 +6,10 @@
 >
 >Aqui não há Nome;  
 >Aqui não há Seguidores;  
->Aqui não há Promessas; 
+>Aqui não há Promessas;
 >**Apenas Progresso e Empenho.**
 
+>Talvez Saia algum video algum dia, segue no yt ")
 ---
 
 <p align="left">
