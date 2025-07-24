@@ -1,15 +1,13 @@
-# 🕶️ Sobre Mim 
+# 🕶️Old System
 
 **`Dev. Autodidata | Ética, Lógica e Design Funcional`**
 
-> "Ani haderekh, veha'emet vehachayim, Ein ish ba el ha'Av elah al yadi"  
-> – *Hamashiach, Yeshua.*
-
-Este perfil é parte de um experimento pessoal.  
-Aqui não há nome;  
-Aqui não há seguidores;  
-Aqui não há promessas; 
-**Apenas Progresso e Empenho.**
+>Este perfil é parte de um experimento pessoal, tenho 20 anos e sou natural São Paulo. Sou entusiasta ferrenho por tecnologia.
+>
+>Aqui não há Nome;  
+>Aqui não há Seguidores;  
+>Aqui não há Promessas; 
+>**Apenas Progresso e Empenho.**
 
 ---
 
@@ -34,6 +32,10 @@ Aqui não há promessas;
 Desenvolvedor autodidata. Focado na construção de soluções, resolução de problemas e apaixonado por **ethical hacking** e tecnologia em geral.  
 Meu perfil explora o equilíbrio entre **psicologia do design funcional**, **Cybersecurity** e **tecnologias inovadoras**.  
 Não há nome, apenas projetos — o trabalho fala por si.
+
+> "Ani haderekh, veha'emet vehachayim, Ein ish ba el ha'Av elah al yadi"  
+> – *Hamashiach, Yeshua.*
+  
 
 ---
 
