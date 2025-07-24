@@ -1,10 +1,10 @@
 ## 🧠 Sobre Mim
 
-> "Ani haderekh, veha'emet vehachayim, Ein ish ba el ha'Av elah al yadi" -Hamashiach, Yeshua.
-
 Desenvolvedor autodidata em formação contínua. Focado na construção de soluções simples, organizadas e intencionais.  
 Meu perfil explora o equilíbrio entre **design funcional**, **segurança digital** e **consistência técnica**.  
 Não há nome, apenas projetos — o trabalho fala por si.
+
+> "Ani haderekh, veha'emet vehachayim, Ein ish ba el ha'Av elah al yadi" -Hamashiach, Yeshua.
 
 ---
 
