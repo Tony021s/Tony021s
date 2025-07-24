@@ -1,7 +1,7 @@
 ## 🧠 Sobre Mim
 
-Desenvolvedor autodidata em formação contínua. Focado na construção de soluções simples, organizadas e intencionais.  
-Meu perfil explora o equilíbrio entre **design funcional**, **segurança digital** e **consistência técnica**.  
+Desenvolvedor autodidata. Focado na construção de soluções, resolução de problemas e paixão pelo ethical hacking e tecnologia em geral.  
+Meu perfil explora o equilíbrio entre **psicologia do design funcional**, **Cybersecurity** e **Tecnologias Inovadoras**.  
 Não há nome, apenas projetos — o trabalho fala por si.
 
 > "Ani haderekh, veha'emet vehachayim, Ein ish ba el ha'Av elah al yadi" -Hamashiach, Yeshua.
@@ -10,23 +10,23 @@ Não há nome, apenas projetos — o trabalho fala por si.
 
 ## 💻 Habilidades Técnicas (Hard Skills)
 
-- 📄 HTML5 (estrutura semântica, imagens, links, emojis)
-- 🎨 Design visual e criativo (alto senso estético, experiência com Canva e Photoshop)
-- 🧪 Markdown, Notion e documentação pessoal
-- 💻 Visual Studio Code e Visual Studio
-- 💡 Fundamentos de Git e GitHub (branches, commits, versionamento – em processo de aplicação prática)
-- 🧭 Noções básicas de terminal e linha de comando
-- 📐 Raciocínio lógico forte e estruturado
-- 🚀 Organização de estudos com IA, flashcards, mapas mentais e métodos de revisão
+- 📄 HTML5; estrutura semântica, imagens, links, emojis. 
+- 🎨 Design visual e criativo 
+- 🧪 Markdown, Notion e Documentação
+- 💻 Visual Studio
+- 💡  Git e GitHub
+- 🧭 Terminal e linha de comando
+- 📐 Raciocínio lógico e estruturado
+- 🚀 Organização de estudos com Ciência: IA, flashcards, Mapas Mentais e Métodos de Revisão
 
 ---
 
 ## 🧬 Habilidades Comportamentais (Soft Skills)
 
-- 🧠 **Autodidata** por natureza — aprendo rápido e aprofundo sozinho
-- 🧩 **Capacidade de pesquisa profunda** e curadoria de conteúdo técnico
-- 🧘 **Organização minimalista** e progressiva por meio de cronogramas e estratégias visuais
-- 📎 **Clareza na comunicação escrita** (explicações, resumos, documentações)
+- 🧠 **Autodidata** por natureza — Aprendo rápido e Aprofundo sozinho
+- 🧩 **Capacidade de pesquisa profunda** 
+- 🧘 **Organização minimalista** 
+- 📎 **Clareza na comunicação escrita** (Explicações, Resumos, Documentações)
 - 🔐 Interesse sólido em **Cybersecurity** e **Ethical Hacking**
 - 🎨 Afinidade com **UI/UX**, psicologia de vendas e construção de experiências digitais envolventes
 
@@ -38,12 +38,14 @@ Não há nome, apenas projetos — o trabalho fala por si.
 - Cybersecurity & Ethical Hacking
 - UI/UX Design Estratégico
 - Projetos com propósito educativo ou visual impactante
+- Psicologia, Economia da Atenção, Mundo Corporativo  
 
 ---
 
 ## 👣 Caminho Atual
 
 > Este perfil é parte de um experimento pessoal.  
-> Aqui não há seguidores, apenas código.  
-> Aqui não há promessas, apenas progresso.
+> Aqui não há seguidores.  
+> Aqui não há promessas
+> Apenas Progresso e Empenho.
 
